@@ -20,7 +20,7 @@
 	</modules>
 
 	<properties>
-		<hibernate.version>5.2.6.Final</hibernate.version>
+		<hibernate.version>5.3.20.Final</hibernate.version>
 		<hibernate.validator.version>6.0.2.Final</hibernate.validator.version>
 		<javax.validation.api.version>2.0.0.Final</javax.validation.api.version>
 		<liquibase.version>3.5.3</liquibase.version>
